@@ -818,6 +818,10 @@ section,
     font-size: 14px;
     margin: 0 5px;
   }
+  section#hero img {
+    right: 32px !important;
+    object-position: right;
+}
 }
 
 .portfolio .portfolio-content {
